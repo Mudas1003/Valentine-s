@@ -1,0 +1,45 @@
+body{
+    background-image: url(360_F_368526008_igcUVUGw6aJRFGtSA8k7W8SV5Qd1a3l9.jpg);  
+    position: fixed;
+}
+p{
+    color: white;
+    font-size: 70px;
+    position: fixed;
+    left: 300px;
+    top: -20px;
+}
+
+#moveButton {
+    position: fixed;
+    top: 470px;
+    left: 600px;
+    transform: translate(-50%, -50%);
+    padding: 10px 20px;
+    font-size: 20px;
+    background-color: #2904f8;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+   
+  }
+  #yes
+  {
+    position: fixed;
+    top: 470px;
+    left: 720px;
+    transform: translate(-50%, -50%);
+    padding: 10px 20px;
+    font-size: 20px;
+    background-color: #ff0000;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  #img1{
+    position: fixed;
+    left: 520px;
+    top: 100px;
+
+  }
+  
